@@ -1,3 +1,6 @@
+# Warning: use 2 configs
+bundle exec jekyll serve --config _config.yml,_config_local.yml
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
