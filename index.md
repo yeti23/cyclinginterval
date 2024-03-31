@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 # Objectif de l'app
 L'objectif principal de l'app Cycling Interval est de planifier des exercices par interval sur ton Apple Watch. CyclingInterval supporte les entraînements en extérieur ou en intérieur, dans ce cas les Home trainer connectés ne sont pas compatibles.
