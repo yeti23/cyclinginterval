@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Change settings
+title: Settings
 permalink: /settings/
 nav_order: 5
 ---

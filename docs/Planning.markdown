@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plan an exercise
+title: Schedule
 permalink: /planning/
 nav_order: 3
 ---
