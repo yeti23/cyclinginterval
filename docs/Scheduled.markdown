@@ -13,6 +13,6 @@ Le détail d'un entraînement réalisé affiche la date de réalisation et un bo
 
 ![]({{ site.baseurl }}/assets/images/WorkoutDetail.png)
 
-L'action Workout detail montre la vue donnant les détails de la séance et la posibilité d'exporter la séance.
+L'action *Workout detail* montre la vue donnant les détails de la séance et la posibilité d'exporter la séance.
 
 ![]({{ site.baseurl }}/assets/images/WorkoutExport.png)
