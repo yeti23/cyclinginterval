@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 # Objectif de l'app
-L'objectif principal de l'app CyclingInterval est de planifier des exercices par intervales sur ton Apple Watch. CyclingInterval supporte les entraînements en extérieur ou en intérieur. Pour les entrainements en intérieur les Home trainer connectés ne sont pas compatibles.
+L'objectif principal de l'app CyclingInterval est de planifier des entraînements par intervales sur ton Apple Watch. CyclingInterval supporte les entraînements en extérieur ou en intérieur. Pour les entrainements en intérieur les Home trainer connectés ne sont pas compatibles.
 
 # Pré-requis
 Un iPhone sous iOS 17.1 ou plus, une Apple Watch avec WatchOS 10 ou plus, un capteur de puissance, un home trainer et un compteur de vitesse pour les entraînements en intérieur.
@@ -23,9 +23,9 @@ Les exercices sont exportables dans les formats FIT, TCX, et GPX.
  - Qu'est-ce CyclingInterval ?
 
 CyclingInterval est une application permettant de réaliser des excercices par intervalles sur ton Apple Watch.
-- Comment ajouter un exercice ?
+- Comment ajouter un entraînement ?
 
-Place tes fichiers dans iCloud Drive et utilise la fonction import dans *Exercices*.
+Place tes fichiers ZWO dans iCloud Drive et utilise la fonction import dans *Exercices*.
 - Comment analyser les séances réalisées ?
 
 Tu peux exporter une séance, et ensuite tu peux les importer vers une application tièrce.
@@ -36,4 +36,4 @@ La séance programmée apparait dans l'app exercice de l'Apple Watch.
 
 - CyclingInterval permet-il de créer des exercices ?
 
-Non, il existe des sites où l'on peut créer ou télécharger des exercices.
+Non, il existe des sites où l'on peut créer ou télécharger des entraînements.
