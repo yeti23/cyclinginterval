@@ -6,19 +6,20 @@ nav_order: 5
 ---
 
 # FAQ
- - Qu'est-ce CyclingInterval ?
+ - Qu'est-ce que CyclingInterval ?
 
-CyclingInterval est une application permettant de réaliser des excercices par intervalles sur ton Apple Watch.
+CyclingInterval est une application permettant de planifier des entraînements par intervalles sur ton Apple Watch.
 - Comment ajouter un entraînement ?
 
 Place tes fichiers ZWO dans iCloud Drive et utilise la fonction import dans *Exercices*.
+
 - Comment analyser les séances réalisées ?
 
 Tu peux exporter une séance, et ensuite tu peux les importer vers une application tièrce.
 
 - Je ne trouve pas la séance que j'ai programmée sur mon Apple Watch.
 
-La séance programmée apparait dans l'app exercice.
+La séance programmée apparait dans l'app Exercice.
 
 - CyclingInterval permet-il de créer des exercices ?
 
