@@ -4,20 +4,20 @@ title: Exercises
 permalink: /exercise/
 nav_order: 2
 ---
-# EXERCICES
+# EXERCISES
 
-Premièrement vous devez importer une séance.
+First you need to import a session.
 
 ![]({{ site.baseurl }}/assets/images/Import.png)
 
-Toutes les séances importées apparaissent dans la vue *Exercices*. 
+All imported sessions appear in the *Exercises* view. 
 
 ![]({{ site.baseurl }}/assets/images/ExercisesList.png)
 
-En sélectionant une séance, la vue détail affiche un graphe sur les intensités à travailler.
+By selecting a session, the detail view displays a graph showing the intensities to be worked on.
 
 ![]({{ site.baseurl }}/assets/images/ExerciseDetail.png)
 
-*Exercise detail* présente une nouvelle vue contenant le détail des intervalles.
+*Exercise detail* presents a new view containing interval details.
 
 ![]({{ site.baseurl }}/assets/images/ExerciseDetailGraphManager.png)

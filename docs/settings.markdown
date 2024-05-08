@@ -7,8 +7,8 @@ nav_order: 6
 
 # Settings
 
-### Ajout de la FTP
-Certaine séance ne contienne pas votre FTP. Cette valeur permet de calculer la valeur de la puissance sur toutes les séances.
+### User FTP
+Some sessions do not contain your FTP. This value is used to calculate the power value over all sessions.
 
 ### Set Free Ride as work
-Par défaut la valeur "Free Ride" sera considéré comme une récupération. Vous pouvez forcer cette valeur à *Travail*.
+By default, the value "Free Ride" will be considered a recovery. You can force this value to *Work*.

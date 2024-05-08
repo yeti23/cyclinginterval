@@ -5,16 +5,16 @@ permalink: /scheduled/
 nav_order: 4
 ---
 
-# Les entraînements
+# Training sessions
 
-Les exercices planifiés et réalisés apparaissent dans la vue Planning.
+Planned and completed exercises appear in the Planning view.
 
 ![]({{ site.baseurl }}/assets/images/ScheduledWorkout.png)
 
-Le détail d'un exercice présente la date planifiée, la date réalisée si l'entraînement est terminé, et les intervalles.
+Exercise details show the planned date, the completed date if the workout is finished, and the intervals.
 
 ![]({{ site.baseurl }}/assets/images/WorkoutDetail.png)
 
-L'action sur *Workout detail* montre la vue donnant les détails de la séance et la posibilité d'exporter la séance.
+Click on *Workout detail* to display the workout detail view and the option to export the workout.
 
 ![]({{ site.baseurl }}/assets/images/WorkoutExport.png)

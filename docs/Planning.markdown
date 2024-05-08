@@ -4,10 +4,10 @@ title: Schedule
 permalink: /planning/
 nav_order: 3
 ---
-# Planifier un entraînement
+# Planning a workout
 
-On commence par planifier un exercice. Il faut spécifier la localisation en intérieur ou extérieur, puis une date et une heure.
+We start by planning an exercise. You need to specify an indoor or outdoor location, then a date and time.
 
 ![]({{ site.baseurl }}/assets/images/PlanAnExercise.png)
 
-Vous devez ensuite autoriser l'application à accèder aux données de santé pour pouvoir enregistrer la séance.
+You must then authorize the application to access your health data in order to record the session.

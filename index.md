@@ -3,18 +3,17 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# Objectif de l'app
-L'objectif principal de l'app CyclingInterval est de planifier des entraînements par intervales sur ton Apple Watch. CyclingInterval supporte les entraînements en extérieur ou en intérieur. Pour les entrainements en intérieur les Home trainer connectés ne sont pas compatibles.
+# Purpose of the app
+The main purpose of the CyclingInterval app is to plan interval workouts on your Apple Watch. CyclingInterval supports both indoor and outdoor training. For indoor training, only wheel-on Trainers are compatible.
 
-# Pré-requis
-Un iPhone sous iOS 17.1 ou plus, une Apple Watch avec WatchOS 10 ou plus, un capteur de puissance, un Home Trainer et un compteur de vitesse pour les entraînements en intérieur.
+# Prerequisites
+An iPhone running iOS 17.1 or higher, an Apple Watch with WatchOS 10 or higher, a power sensor, a Turbo Trainer and a speedometer for indoor workouts.
 
-# Pourquoi utiliser CyclingInterval ?
-Les exercices sont planifiés directement sur ton Apple Watch, et sont réutilisables.
-Les exercices sont exportables dans les formats FIT, TCX, et GPX.
+# Why use CyclingInterval?
+Exercises are planned directly on your Apple Watch, and are reusable. Workouts can be exported in FIT, TCX and GPX formats.
 
-# Fonctionnement
-1. ![alt text]({{ site.baseurl }}/assets/images/bicycle.circle.png) Importe tes exercices au format ZWO via iCloud Drive ou par l'app mail
-2. ![alt text]({{ site.baseurl }}/assets/images/calendar.png) Planifie tes entraînements le jour qui te convient
-3. ![alt text]({{ site.baseurl }}/assets/images/applewatch.and.arrow.forward.png) Réalise l'exercice avec ton Apple Watch (possibilité aussi de connecter ton iPhone)
-4. ![alt text]({{ site.baseurl }}/assets/images/square.and.arrow.up.png) Exporte ta séance réalisée pour une analyse aux formats TCX, FIT, ou GPX
+# How it works
+1. ![alt text]({{ site.baseurl }}/assets/images/bicycle.circle.png) Import your exercises in ZWO format via iCloud Drive or the mail app
+2. ![alt text]({{ site.baseurl }}/assets/images/calendar.png) Plan your workouts on a day that suits you
+3. ![alt text]({{ site.baseurl }}/assets/images/applewatch.and.arrow.forward.png) Perform the exercise with your Apple Watch (you can also connect your iPhone)
+4. ![alt text]({{ site.baseurl }}/assets/images/square.and.arrow.up.png) Export your session for analysis in TCX, FIT, or GPX formats
