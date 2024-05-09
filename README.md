@@ -1,6 +1,9 @@
 # Warning: use 2 configs
 bundle exec jekyll serve --config _config.yml,_config_local.yml
 
+# Multi lang
+https://george-gca.github.io/blog/2022/dual-language-al-folio/
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

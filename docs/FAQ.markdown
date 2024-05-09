@@ -6,25 +6,27 @@ nav_order: 5
 ---
 
 # FAQ
- - What is CyclingInterval?
+ * What is CyclingInterval?
 
-CyclingInterval is an application that lets you plan interval training sessions on your Apple Watch.
-- How do I add a workout?
+    > CyclingInterval is an application that lets you plan interval training sessions on your Apple Watch.
+<br><br>
 
-Place your ZWO files in iCloud Drive and use the import function in *Exercises*.
+- How do I add a workout
 
+    > Place your ZWO files in iCloud Drive and use the import function in *Exercises*.
+<br><br>
 - How do you analyze the sessions you've carried out?
 
-You can export a session, and then import it into a third-party application.
-
+    > You can export a session, and then import it into a third-party application.
+<br><br>
 - I can't find the session I programmed on my Apple Watch.
 
-The programmed session appears in the Exercise app.
+    > The programmed session appears in the Exercise app.
+<br><br>
+- Can the CyclingInterval app be used to create exercises?
 
-- Can CyclingInterval be used to create exercises?
+    > No, there are websites where you can create or download workouts.
+<br><br>
+- At the end of my workout, my Apple Watch asks me to save my exercise?
 
-No, there are websites where you can create or download workouts.
-
-- My Apple Watch asks me to save my exercise?
-
-The Exercise app lets you save training sessions. CyclingInterval lets you read unscheduled sessions by specifying a date on which they were completed.
+    > The Exercise on Apple Watch app lets you save workouts. The CyclingInterval app lets you read unscheduled sessions by specifying a date on which they were completed.
