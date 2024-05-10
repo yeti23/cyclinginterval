@@ -15,9 +15,9 @@ nav_order: 5
 
     > Place your ZWO files in iCloud Drive and use the import function in *Exercises*.
 <br><br>
-- How do you analyze the sessions you've carried out?
+- How do you analyze the workouts you've carried out?
 
-    > You can export a session, and then import it into a third-party application.
+    > You can export a workout to iCloud Drive, and then import it into a third-party application.
 <br><br>
 - I can't find the session I programmed on my Apple Watch.
 
